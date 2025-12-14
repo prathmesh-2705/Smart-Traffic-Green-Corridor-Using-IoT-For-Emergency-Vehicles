@@ -81,3 +81,16 @@ The system operates on a decentralized model where the **Server** acts as the de
 cd Backend
 pip install -r requirements.txt
 python server.py
+## 📄 Published Research
+
+Our research findings and methodology have been published in the **International Journal for Research in Applied Science & Engineering Technology (IJRASET)**.
+
+**Title:** [IoT-Enabled Smart Traffic Management and Alert System with Green Corridor for Emergency Vehicles](https://www.ijraset.com/research-paper/iot-enabled-smart-traffic-management-and-alert-system)  
+**Authors:** Ishika Bhalla, Meet Shivhare, Prathmesh Nishane, Timothy Shandy, Ansar Sheikh  
+**Journal:** IJRASET, Volume 13, Issue VIII, August 2025  
+**Paper ID:** IJRASET73886  
+**DOI:** [10.22214/ijraset.2025.73886](https://doi.org/10.22214/ijraset.2025.73886)
+
+> **Abstract:** This paper presents a Smart Traffic Management Alert System (STMAS) designed to improve emergency medical response time in urban environments by leveraging Internet of Things (IoT) technology. The system addresses the critical delays ambulances face due to conventional, fixed-time traffic signal patterns that fail to adapt to real-time emergency needs. Our approach integrates GPS-enabled ambulance tracking, microcontroller-based traffic signal control, cloud-based data processing, and digital display boards to ensure prioritized passage for emergency vehicles. Tests and simulations show that the system can greatly reduce the time ambulances spend in traffic and improve coordination between emergency services and traffic control.
+
+[![Read Paper](https://img.shields.io/badge/Read-Full%20Paper-blue?style=for-the-badge&logo=googlescholar)](https://www.ijraset.com/research-paper/iot-enabled-smart-traffic-management-and-alert-system)
