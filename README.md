@@ -1,7 +1,7 @@
 # 🚑 Smart Traffic Management & Alert System with Green Corridor
 
 [![IoT](https://img.shields.io/badge/IoT-ESP32-blue?style=for-the-badge)](https://www.espressif.com/en/products/socs/esp32)
-[![Status](https://img.shields.io/badge/Status-Prototype-green?style=for-the-badge)](https://github.com/your-username/your-repo)
+[![Status](https://img.shields.io/badge/Status-Prototype-green?style=for-the-badge)]([https://github.com/your-username/your-repo](https://github.com/prathmesh-2705/Smart-Traffic-Green-Corridor-Using-IoT-For-Emergency-Vehicles/tree/main))
 [![Backend](https://img.shields.io/badge/Backend-Flask-orange?style=for-the-badge)](https://flask.palletsprojects.com/)
 [![Research](https://img.shields.io/badge/Research-Published-red?style=for-the-badge)](https://doi.org/10.22214/ijraset.2025.73886)
 
