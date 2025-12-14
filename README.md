@@ -1,9 +1,10 @@
 # 🚑 Smart Traffic Management & Alert System with Green Corridor
 
-![IoT](https://img.shields.io/badge/IoT-ESP32-blue)
-![Status](https://img.shields.io/badge/Status-Prototype-green)
-![Backend](https://img.shields.io/badge/Backend-Flask-orange)
-![Research](https://img.shields.io/badge/Research-Published-red)
+[![IoT](https://img.shields.io/badge/IoT-ESP32-blue?style=for-the-badge)](https://www.espressif.com/en/products/socs/esp32)
+[![Status](https://img.shields.io/badge/Status-Prototype-green?style=for-the-badge)](https://github.com/your-username/your-repo)
+[![Backend](https://img.shields.io/badge/Backend-Flask-orange?style=for-the-badge)](https://flask.palletsprojects.com/)
+[![Research](https://img.shields.io/badge/Research-Published-red?style=for-the-badge)](https://doi.org/10.22214/ijraset.2025.73886)
+
 
 An **IoT-enabled Smart Traffic Management System** designed to minimize emergency response time by automatically creating a **Green Corridor** for ambulances using real-time GPS tracking and dynamic traffic signal control.
 
