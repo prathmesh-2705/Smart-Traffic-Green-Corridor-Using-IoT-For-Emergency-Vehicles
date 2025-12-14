@@ -15,7 +15,7 @@ Here is the working prototype of the system in action:
 
 | **Full Prototype Setup** | **Circuit & OLED Unit** | **Live Demo** |
 |:---:|:---:|:---:|
-| ![Full Setup](Media/prototype_full_view.jpg) | ![Circuit](Media/circuit_close_up.jpg) | [![Watch Video](https://img.shields.io/badge/▶️_Click_to_Watch-Demo_Video-red)](Media/project_demo_video.mp4) |
+| ![Full Setup](Media/prototype.jpg) | ![Circuit](Media/working model.jpg) | [![Watch Video](https://img.shields.io/badge/▶️_Click_to_Watch-Demo_Video-red)](Media/project_demo_video.mp4) |
 | *The complete 4-way intersection model* | *Traffic Signal Control Unit* | *Click to see the Green Corridor in action* |
 
 ---
