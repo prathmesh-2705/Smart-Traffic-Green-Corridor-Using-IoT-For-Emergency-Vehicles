@@ -8,12 +8,11 @@
 An **IoT-enabled Smart Traffic Management System** designed to minimize emergency response time by automatically creating a **Green Corridor** for ambulances using real-time GPS tracking and dynamic traffic signal control.
 
 ---
-
 ## 📸 Project Gallery
 
 | **Full Prototype Setup** | **Circuit & OLED Unit** | **Live Demo** |
 |:---:|:---:|:---:|
-| ![Full Setup](Media/PROTOTYPE.png) | ![Circuit](Media/WORKING%20MODEL.jpeg) | [▶️ Watch Demo Video](https://raw.githubusercontent.com/prathmesh-2705/Smart-Traffic-Green-Corridor-Using-IoT-For-Emergency-Vehicles/main/Media/project_demo_video.mp4) |
+| <img src="Media/PROTOTYPE.png" width="220"> | <img src="Media/WORKING%20MODEL.jpeg" width="220"> | [▶️ Watch Demo Video](https://raw.githubusercontent.com/prathmesh-2705/Smart-Traffic-Green-Corridor-Using-IoT-For-Emergency-Vehicles/main/Media/project_demo_video.mp4) |
 | *Complete 4-way intersection model* | *Traffic signal control unit* | *Green Corridor in action* |
 
 ---
