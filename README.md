@@ -83,8 +83,8 @@ The system operates on a decentralized model where the **Server** acts as the de
 cd Backend
 pip install -r requirements.txt
 python server.py
-
-📄 Published Research
+---
+##📄 Published Research
 Our research findings and methodology have been published in the International Journal for Research in Applied Science & Engineering Technology (IJRASET).
 
 Title: IoT-Enabled Smart Traffic Management and Alert System with Green Corridor for Emergency Vehicles
