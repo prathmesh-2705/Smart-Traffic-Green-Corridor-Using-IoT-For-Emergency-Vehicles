@@ -91,6 +91,11 @@ The system operates in a decentralized manner with a centralized decision server
 2. Start **Apache** and **MySQL**
 3. Import `schema.sql` from the `/Database` directory into phpMyAdmin
 4. Ensure your system IP is known (e.g., `192.168.1.5`)
+### 2️⃣ Backend Server Setup
+```bash
+cd Backend
+pip install -r requirements.txt
+python server.py
 
 ---
 ---
@@ -123,8 +128,3 @@ https://www.ijraset.com/research-paper/iot-enabled-smart-traffic-management-and-
 ### Abstract
 This paper presents an **IoT-enabled Smart Traffic Management and Alert System (STMAS)** aimed at reducing emergency medical response time in urban environments. The system integrates **GPS-based ambulance tracking**, **ESP32-controlled traffic signals**, **cloud-based processing using Flask**, and **public alert displays** to dynamically establish a **green corridor** for emergency vehicles. Experimental results demonstrate a significant reduction in ambulance waiting time at intersections and improved traffic coordination during emergencies.
 
-### 2️⃣ Backend Server Setup
-```bash
-cd Backend
-pip install -r requirements.txt
-python server.py
