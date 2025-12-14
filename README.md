@@ -93,6 +93,35 @@ The system operates in a decentralized manner with a centralized decision server
 4. Ensure your system IP is known (e.g., `192.168.1.5`)
 
 ---
+---
+
+## 📄 Published Research
+
+This project has been **successfully published** in a peer-reviewed international journal.
+
+**Title:**  
+**IoT-Enabled Smart Traffic Management and Alert System with Green Corridor for Emergency Vehicles**
+
+**Authors:**  
+Ishika Bhalla, Meet Shivhare, Prathmesh Nishane, Timothy Shandy, Ansar Sheikh
+
+**Journal:**  
+*International Journal for Research in Applied Science & Engineering Technology (IJRASET)*
+
+**Volume & Issue:**  
+Volume 13, Issue VIII, August 2025
+
+**Paper ID:**  
+IJRASET73886
+
+**DOI:**  
+https://doi.org/10.22214/ijraset.2025.73886
+
+**Paper Link:**  
+https://www.ijraset.com/research-paper/iot-enabled-smart-traffic-management-and-alert-system
+
+### Abstract
+This paper presents an **IoT-enabled Smart Traffic Management and Alert System (STMAS)** aimed at reducing emergency medical response time in urban environments. The system integrates **GPS-based ambulance tracking**, **ESP32-controlled traffic signals**, **cloud-based processing using Flask**, and **public alert displays** to dynamically establish a **green corridor** for emergency vehicles. Experimental results demonstrate a significant reduction in ambulance waiting time at intersections and improved traffic coordination during emergencies.
 
 ### 2️⃣ Backend Server Setup
 ```bash
